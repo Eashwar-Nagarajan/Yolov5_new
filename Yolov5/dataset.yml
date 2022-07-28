@@ -3,5 +3,5 @@ train: images
 val: images  
 
 # Classes
-nc: 2  # number of classes
-names: ['closed_eye','yawn']
+nc: 3  # number of classes
+names: ['eyes_closed','yawn','eyes_open']
